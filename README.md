@@ -11,7 +11,7 @@ Just a litle Docker POC in order to have a complete stack for running Symfony in
 First, clone this repository:
 
 ```bash
-$ git clone git@github.com:eko/docker-symfony.git
+$ git clone https://github.com/DEGETEL-GWARCKOL/docker-symfony.git
 ```
 
 Next, put your Symfony application into `symfony` folder and do not forget to add `symfony.dev` in your `/etc/hosts` file.
