@@ -1,5 +1,5 @@
 FROM debian:jessie
 
-MAINTAINER Vincent Composieux <vincent.composieux@gmail.com>
+MAINTAINER Guillaume Warckol <gwarckol@degetel.com>
 
-VOLUME /var/www/symfony
+VOLUME /var/www/objenious

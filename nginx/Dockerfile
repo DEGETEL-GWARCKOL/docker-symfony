@@ -1,6 +1,6 @@
 FROM debian:jessie
 
-MAINTAINER Vincent Composieux <vincent.composieux@gmail.com>
+MAINTAINER Guillaume Warckol <gwarckol@degetel.com>
 
 RUN apt-get update && apt-get install -y nginx
 
