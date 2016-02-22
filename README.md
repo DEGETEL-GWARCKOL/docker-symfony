@@ -19,7 +19,7 @@ Next, put your Symfony application into `symfony` folder and do not forget to ad
 Then, run:
 
 ```bash
-$ docker-compose up
+$ docker-compose up -d
 ```
 
 You are done, you can visite your Symfony application on the following URL: `http://dev.objenious.fr` (and access Kibana on `http://dev.objenious.fr:81`)
