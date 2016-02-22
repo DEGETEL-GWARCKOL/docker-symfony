@@ -22,7 +22,7 @@ Then, run:
 $ docker-compose up
 ```
 
-You are done, you can visite your Symfony application on the following URL: `http://symfony.dev` (and access Kibana on `http://symfony.dev:81`)
+You are done, you can visite your Symfony application on the following URL: `http://dev.objenious.fr` (and access Kibana on `http://dev.objenious.fr:81`)
 
 _Note :_ you can rebuild all Docker images by running:
 
